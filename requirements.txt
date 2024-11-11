@@ -1,0 +1,9 @@
+pinecone_text
+pinecone
+langchain_community
+langchain
+langchain_cohere
+langchain_huggingface
+langchain_ollama
+langchain_core
+ollama
